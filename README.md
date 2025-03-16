@@ -1,6 +1,6 @@
 # DVP-MVS
 
-Zhenlong Yuan, Jingguo luo, Fei Shen, Zhaoxin Li, Cong Liu, Tianlu Mao and Zhaoqi Wang, [**SD-MVS: Segmentation-Driven Deformation Multi-View Stereo with Spherical Refinement and EM optimization**](https://arxiv.org/pdf/2412.11578), AAAI 2025
+Zhenlong Yuan, Jingguo luo, Fei Shen, Zhaoxin Li, Cong Liu, Tianlu Mao and Zhaoqi Wang, [**DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo**](https://arxiv.org/pdf/2412.11578), AAAI 2025.
 ![](images/DVP-MVS-pipeline.png)
 
 ## About
