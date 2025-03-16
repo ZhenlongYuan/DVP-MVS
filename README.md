@@ -4,7 +4,7 @@ Zhenlong Yuan, Jingguo luo, Fei Shen, Zhaoxin Li, Cong Liu, Tianlu Mao and Zhaoq
 ![](images/DVP-MVS-pipeline.png)
 
 ## About
-DVP-MVS is the first method who combines the instance segmentation model **SAM** with multi-view stereo(**MVS**) algorithm to address limited receptive field of PatchMatch-based MVS.
+DVP-MVS is the first method who combines the monocular depth estimation algorithm **Depth-Anything-V2** with multi-view stereo(**MVS**) algorithm to address patch deformation instability of PatchMatch-based MVS.
 
 Our paper was accepted by **AAAI2025**!
 
